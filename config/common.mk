@@ -135,6 +135,11 @@ PRODUCT_PACKAGES += \
     LineageThemesStub \
     ThemePicker
 
+# ASUS packages
+PRODUCT_PACKAGES += \
+    StitchImage \
+    StitchImageService 
+
 # Config
 PRODUCT_PACKAGES += \
     SimpleDeviceConfig
